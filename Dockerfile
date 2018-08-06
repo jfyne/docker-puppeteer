@@ -1,4 +1,4 @@
-FROM node:8-slim
+FROM node:slim
 
 LABEL maintainer="cheeaun@gmail.com"
 
